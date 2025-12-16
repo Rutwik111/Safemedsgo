@@ -1,0 +1,5 @@
+{
+  "name": "SafeMeds Device Showcase",
+  "description": "A modern product showcase website featuring a Home page for the device overview and a Contact page for inquiries, styled with Tailwind CSS and Font Awesome.",
+  "requestFramePermissions": []
+}
